@@ -1,6 +1,5 @@
-# Wait for 30 seconds before starting the script
-Start-Sleep -Seconds 30
-
+# Use winpython as the main python version
 WinPython_PS_Prompt.ps1
 
+# Run the project with poetry
 poetry run main
