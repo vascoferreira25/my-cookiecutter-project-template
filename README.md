@@ -106,5 +106,5 @@ poetry run main
 ## Serve the docs
 
 ```
-mkdocs serve
+poetry run mdocs serve
 ```

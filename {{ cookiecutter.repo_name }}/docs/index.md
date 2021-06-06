@@ -20,6 +20,12 @@ To run the program run:
 poetry run main
 ```
 
+### Serve the docs
+
+```
+poetry run mkdocs serve
+```
+
 ### Test
 
 To test the program run:
