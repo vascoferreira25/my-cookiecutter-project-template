@@ -26,6 +26,12 @@ poetry run main
 poetry run mkdocs serve
 ```
 
+### Build the docs
+
+```
+poetry run mkdocs build
+```
+
 ### Test
 
 To test the program run:
